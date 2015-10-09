@@ -1,9 +1,9 @@
-# Ansible - Install CouchDB Master on Raspberry Pi
+# Ansible - Install CouchDB from apt-get on Ubuntu 14.04.
 
-This is an Ansible playbook that allows CouchDB 2 to be installed on a Raspberry Pi.
+This is a (forked) Ansible playbook that allows CouchDB 2 to be installed on an Ubuntu 14.04 LTS server.
 
 * Install Ansible on your machine
-* Add your Rasperry Pi's IP address to your Ansible hosts file
+* Add your server's IP address to your Ansible hosts file
 
 Then run 
 
